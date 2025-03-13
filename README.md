@@ -43,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0027-remove-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->

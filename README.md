@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
@@ -48,9 +49,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0027-remove-element) |
+| [0169-majority-element](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0027-remove-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

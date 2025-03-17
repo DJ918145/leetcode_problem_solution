@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2331-intersection-of-multiple-arrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2586-longest-square-streak-in-an-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2586-longest-square-streak-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2331-intersection-of-multiple-arrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2554-minimum-total-distance-traveled) |
+| [2586-longest-square-streak-in-an-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0414-third-maximum-number) |
 | [2331-intersection-of-multiple-arrays](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2331-intersection-of-multiple-arrays) |
 | [2554-minimum-total-distance-traveled](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2554-minimum-total-distance-traveled) |
+| [2586-longest-square-streak-in-an-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2586-longest-square-streak-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2586-longest-square-streak-in-an-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0118-pascals-triangle) |
 | [2554-minimum-total-distance-traveled](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2554-minimum-total-distance-traveled) |
+| [2586-longest-square-streak-in-an-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2586-longest-square-streak-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |

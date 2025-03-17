@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0189-rotate-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0283-move-zeroes) |

@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Stack
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1940-maximum-xor-for-each-query) |
 | [2308-divide-array-into-equal-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2308-divide-array-into-equal-pairs) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Matrix
 |  |
 | ------- |

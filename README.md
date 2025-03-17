@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0283-move-zeroes) |
@@ -97,10 +98,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0074-search-a-2d-matrix) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0371-sum-of-two-integers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2308-divide-array-into-equal-pairs) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->

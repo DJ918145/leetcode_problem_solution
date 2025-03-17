@@ -17,4 +17,3 @@ class Solution(object):
         else:
             i = size / 2
             return float(nums1[i])
-        

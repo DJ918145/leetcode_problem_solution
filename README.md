@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0169-majority-element) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2554-minimum-total-distance-traveled](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2586-longest-square-streak-in-an-array) |
 ## Prefix Sum

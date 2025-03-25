@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0283-move-zeroes) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0238-product-of-array-except-self) |
 | [1940-maximum-xor-for-each-query](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1940-maximum-xor-for-each-query) |
 ## Simulation
 |  |

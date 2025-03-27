@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0171-excel-sheet-column-number) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0125-valid-palindrome) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0068-text-justification) |
 | [2058-concatenation-of-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2058-concatenation-of-array) |
 ## Heap (Priority Queue)

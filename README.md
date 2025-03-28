@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0414-third-maximum-number) |
 | [2331-intersection-of-multiple-arrays](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2331-intersection-of-multiple-arrays) |
 | [2554-minimum-total-distance-traveled](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2554-minimum-total-distance-traveled) |
@@ -237,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0014-longest-common-prefix) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->

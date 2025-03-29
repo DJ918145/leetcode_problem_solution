@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0168-excel-sheet-column-title) |
@@ -254,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0380-insert-delete-getrandom-o1) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |

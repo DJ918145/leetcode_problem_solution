@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0392-is-subsequence) |
 | [0837-most-common-word](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0837-most-common-word) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0837-most-common-word](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0837-most-common-word) |
 | [1635-number-of-good-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1635-number-of-good-pairs) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0383-ransom-note) |
 | [0837-most-common-word](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0837-most-common-word) |
 | [1635-number-of-good-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1786-count-the-number-of-consistent-strings) |

@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0605-can-place-flowers](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0605-can-place-flowers) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Enumeration
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0605-can-place-flowers](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0837-most-common-word) |
 | [1031-add-to-array-form-of-integer](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1031-add-to-array-form-of-integer) |

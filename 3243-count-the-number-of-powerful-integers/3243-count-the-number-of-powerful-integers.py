@@ -1,27 +1,22 @@
-class Solution:
-    def numberOfPowerfulInt(self, start, finish, limit, suffix):
-        def count_powerful_up_to(num):
-            num_str = str(num)
-            suffix_len = len(suffix)
-            prefix_len = len(num_str) - suffix_len
+class Solution(object):
+    def numberOfPowerfulInt(self, start, finish, limit, s):
+        """
+        :type start: int
+        :type finish: int
+        :type limit: int
+        :type s: str
+        :rtype: int
+        """
+        def baho(num):
+            count = 0
+            strNum=str(num)
 
-            if prefix_len < 0:
-                return 0
+            for i in range(len(strNum)-len(s)):
+                count += min(limit + 1, int(strNum[i])) * (limit + 1) ** (len(strNum) - len(s) - i - 1)
+                if int(strNum[i]) > limit:
+                    break
+            else:
+                count += (int(strNum[-len(s):]) >= int(s))
+            return count
 
-            dp = [[0] * 2 for _ in range(prefix_len + 1)]
-
-            dp[prefix_len][0] = 1
-            suffix_from_num = num_str[prefix_len:]
-            dp[prefix_len][1] = int(suffix_from_num) >= int(suffix)
-
-            for i in range(prefix_len - 1, -1, -1):
-                digit = int(num_str[i])
-                dp[i][0] = (limit + 1) * dp[i + 1][0]
-                if digit <= limit:
-                    dp[i][1] = digit * dp[i + 1][0] + dp[i + 1][1]
-                else:
-                    dp[i][1] = (limit + 1) * dp[i + 1][0]
-
-            return dp[0][1]
-
-        return count_powerful_up_to(finish) - count_powerful_up_to(start - 1)
+        return baho(finish) - baho(start-1)

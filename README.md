@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0643-maximum-average-subarray-i) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0290-word-pattern) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0260-single-number-iii) |

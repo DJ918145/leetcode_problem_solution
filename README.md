@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0068-text-justification) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0049-group-anagrams) |
 | [0149-max-points-on-a-line](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0202-happy-number) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0068-text-justification) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0242-valid-anagram) |

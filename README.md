@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0202-happy-number) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0149-max-points-on-a-line) |
@@ -361,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0374-guess-number-higher-or-lower) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

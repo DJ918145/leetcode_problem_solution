@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0074-search-a-2d-matrix) |

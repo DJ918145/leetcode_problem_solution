@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1833-find-the-highest-altitude) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1940-maximum-xor-for-each-query) |
 | [2048-build-array-from-permutation](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2048-build-array-from-permutation) |

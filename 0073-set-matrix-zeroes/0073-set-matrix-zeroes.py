@@ -1,20 +1,49 @@
-class Solution:
+class Solution(object):
     def setZeroes(self, matrix):
-        rowZero = []
-        colZero = []
+        """
+        :type matrix: List[List[int]]
+        :rtype: None Do not return anything, modify matrix in-place instead.
+        """
+        numRows = len(matrix)
+        numCols = len(matrix[0])
 
-        rows = len(matrix)
-        cols = len(matrix[0])
+        cols = set()
+        rows = set()
 
-        # Step 1: Save all rows and columns that should be 0
-        for i in range(rows):
-            for j in range(cols):
-                if matrix[i][j] == 0:
-                    rowZero.append(i)
-                    colZero.append(j)
+        # if True, set the first col to 0. 
+        # We must track this seperately since 0,0 has overloaded meaning otherwise.
+        flagForFirstCol = False 
 
-        # Step 2: Set rows and columns to 0
-        for i in range(rows):
-            for j in range(cols):
-                if i in rowZero or j in colZero:
-                    matrix[i][j] = 0
+        # propogate zeros to top row and first col for tracking 
+        # rows/cols scheduled for deletion
+        for row in range(numRows):
+            for col in range(numCols):
+                if(matrix[row][col] == 0):
+                    if(col == 0):
+                        flagForFirstCol = True
+                    else:
+                        matrix[0][col] = 0
+                    matrix[row][0] = 0
+
+        # do operations
+        for i in range(1,numRows):
+            if(matrix[i][0] == 0):
+                self.clearRow(matrix, i)
+                
+        
+        for i in range(1,numCols):
+            if(matrix[0][i] == 0):
+                self.clearCol(matrix, i)
+
+        # special cases
+        if(matrix[0][0] == 0):
+            self.clearRow(matrix, 0)
+        if(flagForFirstCol):
+            self.clearCol(matrix, 0)
+
+    def clearRow(self, matrix, row):
+        matrix[row] = [0] * len(matrix[0])
+    
+    def clearCol(self, matrix, col):
+        for row in range(len(matrix)):
+            matrix[row][col] = 0

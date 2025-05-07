@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Two Pointers
 |  |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3227-find-missing-and-repeated-values) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## String Matching
 |  |
 | ------- |
@@ -425,4 +428,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0128-longest-consecutive-sequence) |
+## Graph
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->

@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0380-insert-delete-getrandom-o1) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0344-reverse-string) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0224-basic-calculator) |
 ## Hash Table
 |  |
 | ------- |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0224-basic-calculator) |
 ## Backtracking
 |  |
 | ------- |

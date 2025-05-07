@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0149-max-points-on-a-line) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0074-search-a-2d-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1496-lucky-numbers-in-a-matrix) |

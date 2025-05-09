@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1940-maximum-xor-for-each-query) |
 | [2048-build-array-from-permutation](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2058-concatenation-of-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2331-intersection-of-multiple-arrays) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1894-merge-strings-alternately) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0068-text-justification) |
 | [2048-build-array-from-permutation](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2058-concatenation-of-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

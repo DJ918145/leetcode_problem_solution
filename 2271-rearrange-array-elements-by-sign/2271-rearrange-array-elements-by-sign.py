@@ -4,11 +4,11 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        answer = []
         positive = [x for x in nums if x>=0]
         neative = [x for x in nums if x<0]
+        nums = []
         for i, j in zip(positive, neative):
-            answer.extend([i, j])
+            nums.extend([i, j])
 
-        return answer
+        return nums
         

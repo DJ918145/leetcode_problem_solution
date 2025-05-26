@@ -10,15 +10,5 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: int
         """
-        if not root:
-            return 0
-        stack = [(root, 1)]
-        max_dept = 0
-
-        while stack:
-            node, dept = stack.pop()
-            if node:
-                max_dept = max(max_dept, dept)
-                stack.append((node.left,dept+1))
-                stack.append((node.right,dept+1))
-        return max_dept
+        if not root: return 0
+        return max(self.maxDepth(root.left), self.maxDepth(root.right)) + 1

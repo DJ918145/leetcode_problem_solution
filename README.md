@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0125-valid-palindrome) |
+| [0140-word-break-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0171-excel-sheet-column-number) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0138-copy-list-with-random-pointer) |
+| [0140-word-break-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0169-majority-element) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0137-single-number-ii) |
+| [0140-word-break-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0140-word-break-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0140-word-break-ii) |
 | [0392-is-subsequence](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0392-is-subsequence) |
 | [0806-domino-and-tromino-tiling](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0806-domino-and-tromino-tiling) |
 | [2554-minimum-total-distance-traveled](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2554-minimum-total-distance-traveled) |
@@ -416,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0014-longest-common-prefix) |
+| [0140-word-break-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0140-word-break-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -440,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0140-word-break-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0140-word-break-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -455,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0070-climbing-stairs) |
+| [0140-word-break-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0140-word-break-ii) |
 ## Interactive
 |  |
 | ------- |

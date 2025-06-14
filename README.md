@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1635-number-of-good-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2610-closest-prime-numbers-in-range) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3227-find-missing-and-repeated-values) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Enumeration
 |  |
 | ------- |

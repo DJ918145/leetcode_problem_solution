@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1031-add-to-array-form-of-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1500-count-largest-group](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1500-count-largest-group) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1635-number-of-good-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2610-closest-prime-numbers-in-range) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0605-can-place-flowers) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2616-maximal-score-after-applying-k-operations) |

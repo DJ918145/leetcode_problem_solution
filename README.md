@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0289-game-of-life) |
 | [0334-increasing-triplet-subsequence](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0414-third-maximum-number) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0074-search-a-2d-matrix) |
+| [0289-game-of-life](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0289-game-of-life) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3227-find-missing-and-repeated-values) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0068-text-justification) |
+| [0289-game-of-life](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0289-game-of-life) |
 | [2048-build-array-from-permutation](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2271-rearrange-array-elements-by-sign) |

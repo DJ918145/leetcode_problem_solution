@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2331-intersection-of-multiple-arrays) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2058-concatenation-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2308-divide-array-into-equal-pairs) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0414-third-maximum-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2331-intersection-of-multiple-arrays](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2331-intersection-of-multiple-arrays) |
 | [2554-minimum-total-distance-traveled](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2586-longest-square-streak-in-an-array) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |

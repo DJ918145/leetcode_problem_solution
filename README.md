@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0224-basic-calculator) |
+| [0232-implement-queue-using-stacks](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0232-implement-queue-using-stacks) |
 ## Hash Table
 |  |
 | ------- |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -529,4 +531,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0104-maximum-depth-of-binary-tree) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->

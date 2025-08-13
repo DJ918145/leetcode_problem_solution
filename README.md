@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [1031-add-to-array-form-of-integer](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1031-add-to-array-form-of-integer) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0224-basic-calculator) |
+| [0326-power-of-three](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0326-power-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
 |  |

@@ -39,5 +39,6 @@ class Solution(object):
                 maxi = max(maxi, l-r)
             else:
                 l = l+1
-                maxi = max(maxi, l-r)  
+                maxi = max(maxi, l-r)
+            maxi = max(maxi, l-r)  
         return maxi

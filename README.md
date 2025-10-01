@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1635-number-of-good-pairs) |
+| [1642-water-bottles](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1642-water-bottles) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2610-closest-prime-numbers-in-range) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0289-game-of-life) |
+| [1642-water-bottles](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2260-divide-a-string-into-groups-of-size-k) |

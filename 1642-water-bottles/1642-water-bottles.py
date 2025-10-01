@@ -5,12 +5,14 @@ class Solution(object):
         :type numExchange: int
         :rtype: int
         """
-        drinked_bottle = 0
+        drinked_bottle = numB
         while True:
             if numB>=numE:
-                drinked_bottle += numE
-                numB = numB + 1 - numE
+                new_bottles = numB//numE
+                numB = numB%numE
+                drinked_bottle += new_bottles
+                numB = numB % numE + new_bottles
             else:
-                drinked_bottle += numB
+                # drinked_bottle += numB
                 return drinked_bottle
         

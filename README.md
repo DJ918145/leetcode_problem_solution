@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2331-intersection-of-multiple-arrays) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2331-intersection-of-multiple-arrays](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2331-intersection-of-multiple-arrays) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2554-minimum-total-distance-traveled](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2586-longest-square-streak-in-an-array) |
 ## Counting
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1646-kth-missing-positive-number) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |

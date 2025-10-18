@@ -4,8 +4,10 @@ class Solution(object):
         :type arr: List[int]
         :rtype: bool
         """
+        set_arr = set(arr)
         occ = []
-        for i in set(arr):
+        for i in set_arr:
             occ.append(arr.count(i))
-        return True if len(occ) == len(set(occ)) else False
+        set_occ = set(occ)
+        return True if len(occ) == len(set_occ) else False
         

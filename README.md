@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2391-strong-password-checker-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2391-strong-password-checker-ii) |
 | [2401-count-asterisks](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2401-count-asterisks) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3194-find-words-containing-character](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3194-find-words-containing-character) |

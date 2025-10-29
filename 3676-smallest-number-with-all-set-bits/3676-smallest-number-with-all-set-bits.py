@@ -4,6 +4,6 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        binary = bin(n)[2:]
-        ans = '1'*len(binary)
-        return int(ans,2)
+        # binary = bin(n)[2:]
+        # ans = '1'*len(binary)
+        return int('1'*(len(bin(n))-2),2)

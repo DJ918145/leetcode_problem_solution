@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0443-string-compression) |
 | [0837-most-common-word](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0837-most-common-word) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0837-most-common-word](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0837-most-common-word) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0274-h-index) |
+| [0389-find-the-difference](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0414-third-maximum-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0389-find-the-difference) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1940-maximum-xor-for-each-query) |
 | [2308-divide-array-into-equal-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2308-divide-array-into-equal-pairs) |

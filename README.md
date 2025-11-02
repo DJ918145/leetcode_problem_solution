@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2331-intersection-of-multiple-arrays) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0289-game-of-life) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Heap (Priority Queue)
 |  |

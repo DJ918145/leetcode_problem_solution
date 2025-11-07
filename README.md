@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1894-merge-strings-alternately) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1940-maximum-xor-for-each-query) |
 | [2048-build-array-from-permutation](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2343-count-unguarded-cells-in-the-grid) |

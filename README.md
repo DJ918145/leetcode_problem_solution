@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [4008-restore-finishing-order](https://github.com/DJ918145/leetcode_problem_solution/tree/master/4008-restore-finishing-order) |
 ## Greedy
 |  |
 | ------- |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [4008-restore-finishing-order](https://github.com/DJ918145/leetcode_problem_solution/tree/master/4008-restore-finishing-order) |
 ## Two Pointers
 |  |
 | ------- |

@@ -5,8 +5,8 @@ class Solution {
         // double avg = 0;
         // int len = nums.length/2;
         for(int i = 0;i<nums.length/2;i++){
-            double avg = (nums[i] + nums[nums.length-1-i]) / 2.0;
-            min_avg = Math.min(min_avg, avg);
+            // double avg = (nums[i] + nums[nums.length-1-i]) / 2.0;
+            min_avg = Math.min(min_avg, (nums[i] + nums[nums.length-1-i]) / 2.0);
         }
         return min_avg;
     }

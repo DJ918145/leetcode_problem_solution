@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1642-water-bottles) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2571-find-the-pivot-integer](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2571-find-the-pivot-integer) |
 | [2610-closest-prime-numbers-in-range](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2610-closest-prime-numbers-in-range) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2998-count-symmetric-integers) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1940-maximum-xor-for-each-query) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2571-find-the-pivot-integer](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2571-find-the-pivot-integer) |
 | [3618-find-the-original-typed-string-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3618-find-the-original-typed-string-ii) |
 ## Simulation
 |  |

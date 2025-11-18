@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0140-word-break-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0140-word-break-ii) |
+| [0338-counting-bits](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0392-is-subsequence) |
 | [0806-domino-and-tromino-tiling](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0806-domino-and-tromino-tiling) |
 | [1013-fibonacci-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1013-fibonacci-number) |

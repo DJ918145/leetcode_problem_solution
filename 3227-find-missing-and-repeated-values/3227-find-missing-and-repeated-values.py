@@ -1,18 +1,20 @@
 class Solution(object):
-    def findMissingAndRepeatedValues(self, grid):
+    def findMissingAndRepeatedValues(self, nums):
+        """
+        :type grid: List[List[int]]
+        :rtype: List[int]
+        """
+        arr = []
         ans = []
-        for i in grid:
-            for ele in i:
-                ans.append(ele)
-        print(ans)
-        ans.sort()
-        print(ans)
-        answer = []
-        for i in range(len(ans)-1):
-            if ans[i]==ans[i+1]:
-                answer.append(ans[i])
-        for i in range(1,len(ans)+1):
-            if i not in ans:
-                answer.append(i)
-        return answer
+        for i in range(len(nums)):
+            for j in range(len(nums)):
+                arr.append(nums[i][j])
+        for i in arr:
+            if arr.count(i)==2:
+                ans.append(i)
+                break
+        for i in range(1,len(arr)+1):
+            if i not in arr:
+                ans.append(i)
+        return ans
         

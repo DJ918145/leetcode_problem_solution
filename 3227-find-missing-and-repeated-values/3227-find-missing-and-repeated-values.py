@@ -4,17 +4,19 @@ class Solution(object):
         :type grid: List[List[int]]
         :rtype: List[int]
         """
-        arr = []
-        ans = []
+        my_dict = {}
         for i in range(len(nums)):
             for j in range(len(nums)):
-                arr.append(nums[i][j])
-        for i in arr:
-            if arr.count(i)==2:
-                ans.append(i)
-                break
-        for i in range(1,len(arr)+1):
-            if i not in arr:
-                ans.append(i)
-        return ans
+                if nums[i][j] not in my_dict:
+                    my_dict[nums[i][j]]=1
+                else:
+                    my_dict[nums[i][j]]+=1
+        a = -1
+        b = -1
+        for i in range(1, len(nums)**2 + 1):
+            if i not in my_dict:
+                b = i
+            elif my_dict[i]==2:
+                a = i
+        return [a, b]
         

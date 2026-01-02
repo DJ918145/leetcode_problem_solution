@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0837-most-common-word](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0837-most-common-word) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0837-most-common-word) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1031-add-to-array-form-of-integer) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1227-number-of-equivalent-domino-pairs) |

@@ -4,6 +4,6 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        for i in range(len(nums)/2+1):
+        for i in range(len(nums)):
             if nums.count(nums[i])>1:
                 return nums[i]

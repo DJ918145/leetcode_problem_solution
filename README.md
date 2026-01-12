@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1031-add-to-array-form-of-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1266-minimum-time-visiting-all-points](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1390-four-divisors) |
 | [1500-count-largest-group](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1031-add-to-array-form-of-integer) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1266-minimum-time-visiting-all-points](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1319-unique-number-of-occurrences](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1390-four-divisors](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1390-four-divisors) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0149-max-points-on-a-line) |
+| [1266-minimum-time-visiting-all-points](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1266-minimum-time-visiting-all-points) |
 ## Memoization
 |  |
 | ------- |

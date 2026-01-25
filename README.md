@@ -641,5 +641,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1683-invalid-tweets) |
+| [1729-find-followers-count](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

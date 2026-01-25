@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0504-base-7) |
+| [0507-perfect-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1031-add-to-array-form-of-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1146-greatest-common-divisor-of-strings) |

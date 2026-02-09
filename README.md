@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1642-water-bottles) |
+| [2028-find-missing-observations](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2028-find-missing-observations) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2571-find-the-pivot-integer](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2571-find-the-pivot-integer) |
 | [2610-closest-prime-numbers-in-range](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2610-closest-prime-numbers-in-range) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1940-maximum-xor-for-each-query) |
 | [1975-maximum-matrix-sum](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1975-maximum-matrix-sum) |
+| [2028-find-missing-observations](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2028-find-missing-observations) |
 | [2048-build-array-from-permutation](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0289-game-of-life) |
 | [1642-water-bottles](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1642-water-bottles) |
+| [2028-find-missing-observations](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2028-find-missing-observations) |
 | [2048-build-array-from-permutation](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2137-final-value-of-variable-after-performing-operations) |

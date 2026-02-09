@@ -5,15 +5,5 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: List[int]
         """
-        ans = []
-        if len(nums1)<len(nums2):
-            for i in nums1:
-                if i in nums2 and i not in ans:
-                    ans.append(i)
-        else:
-            for i in nums2:
-                if i in nums1 and i not in ans:
-                    ans.append(i)
-
-        return ans
+        return list(set(nums1) & set(nums2))
         

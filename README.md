@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3721-longest-balanced-subarray-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3721-longest-balanced-subarray-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [4008-restore-finishing-order](https://github.com/DJ918145/leetcode_problem_solution/tree/master/4008-restore-finishing-order) |
 ## Greedy
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3721-longest-balanced-subarray-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3721-longest-balanced-subarray-ii) |
 | [4008-restore-finishing-order](https://github.com/DJ918145/leetcode_problem_solution/tree/master/4008-restore-finishing-order) |
 ## Two Pointers
 |  |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0169-majority-element) |
+| [3721-longest-balanced-subarray-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2571-find-the-pivot-integer](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2571-find-the-pivot-integer) |
 | [3618-find-the-original-typed-string-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3618-find-the-original-typed-string-ii) |
+| [3721-longest-balanced-subarray-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3721-longest-balanced-subarray-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -669,4 +673,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1729-find-followers-count](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1934-confirmation-rate) |
+## Segment Tree
+|  |
+| ------- |
+| [3721-longest-balanced-subarray-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3721-longest-balanced-subarray-ii) |
 <!---LeetCode Topics End-->

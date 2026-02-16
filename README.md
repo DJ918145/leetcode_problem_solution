@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0190-reverse-bits) |
 | [3721-longest-balanced-subarray-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sorting
 |  |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0338-counting-bits) |

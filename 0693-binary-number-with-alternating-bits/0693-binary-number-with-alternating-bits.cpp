@@ -11,8 +11,7 @@ public:
     }
     bool hasAlternatingBits(int n) {
         string binary = intToBinary(n);
-        int len = binary.length();
-        for(int i = 0; i<=len-1; i++){
+        for(int i = 0; i<=binary.length()-1; i++){
             if(binary[i]==binary[i+1]) return false;
         }       
         return true;

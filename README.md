@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0496-next-greater-element-i) |
 | [0837-most-common-word](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0837-most-common-word) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0724-find-pivot-index) |
@@ -696,4 +699,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3721-longest-balanced-subarray-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3721-longest-balanced-subarray-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

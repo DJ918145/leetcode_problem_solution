@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0507-perfect-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1031-add-to-array-form-of-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0693-binary-number-with-alternating-bits](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1940-maximum-xor-for-each-query) |

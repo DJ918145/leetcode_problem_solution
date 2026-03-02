@@ -5,10 +5,7 @@ class Solution(object):
         :type k: int
         :rtype: str
         """
-        if k>= len(s):
-            return s[::-1]
-        elif k == 1:
+        if k==1:
             return s
-        else:
-            answer = s[:k][::-1] + s[k:]
-            return answer
+        m=s[0:k][::-1]+s[k:]
+        return m

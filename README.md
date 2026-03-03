@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0837-most-common-word) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0289-game-of-life) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2028-find-missing-observations](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2028-find-missing-observations) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1013-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
 |  |

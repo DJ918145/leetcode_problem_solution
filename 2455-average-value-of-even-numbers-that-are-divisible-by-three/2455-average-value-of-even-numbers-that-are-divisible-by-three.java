@@ -3,12 +3,11 @@ class Solution {
         int total = 0;
         int count = 0;
         for(int num:nums){
-            if(num%2==0 && num%3==0){
+            if(num%6==0){
                 total+=num;
                 count++;
             }
         }
-        if(count ==0) return 0;
-        return (int) total/count;
+        return count==0 ? 0 : total/count;
     }
 }

@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2028-find-missing-observations](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2028-find-missing-observations) |
 | [2396-strictly-palindromic-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2396-strictly-palindromic-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2571-find-the-pivot-integer](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2571-find-the-pivot-integer) |
 | [2610-closest-prime-numbers-in-range](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2610-closest-prime-numbers-in-range) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2554-minimum-total-distance-traveled) |

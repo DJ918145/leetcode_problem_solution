@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1975-maximum-matrix-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2241-design-an-atm-machine](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2241-design-an-atm-machine) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2239-find-closest-number-to-zero](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2239-find-closest-number-to-zero) |
+| [2241-design-an-atm-machine](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2241-design-an-atm-machine) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2331-intersection-of-multiple-arrays) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0380-insert-delete-getrandom-o1) |
+| [2241-design-an-atm-machine](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2241-design-an-atm-machine) |
 ## Randomized
 |  |
 | ------- |

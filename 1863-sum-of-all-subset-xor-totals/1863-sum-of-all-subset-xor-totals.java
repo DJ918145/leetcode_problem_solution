@@ -1,24 +1,10 @@
 class Solution {
     public int subsetXORSum(int[] nums) {
-        int xor=0;
-        List<List<Integer>>outer=new ArrayList<>();
-        outer.add(new ArrayList<>());
-        for(int num:nums){
-            int n=outer.size();
-            for(int i=0;i<n;i++){
-                List<Integer>internal=new ArrayList<>(outer.get(i));
-                internal.add(num);
-                outer.add(internal);
-            }
+        int orResult = 0;
+        for (int num : nums) {
+            orResult |= num;
         }
-        for(int i=0;i<outer.size();i++){
-            int temp=0;
-            for(int j=0;j<outer.get(i).size();j++){
-                temp=temp^outer.get(i).get(j);
-            }
-            xor+=temp;
-        }
-    return xor;
+        // Result is (OR of all elements) * 2^(n-1)
+        return orResult << (nums.length - 1);
     }
-    
 }

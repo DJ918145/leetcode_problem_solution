@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2028-find-missing-observations](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2028-find-missing-observations) |
 | [2396-strictly-palindromic-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2396-strictly-palindromic-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1656-count-good-triplets) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2998-count-symmetric-integers](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2998-count-symmetric-integers) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1833-find-the-highest-altitude) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1940-maximum-xor-for-each-query) |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1940-maximum-xor-for-each-query](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1940-maximum-xor-for-each-query) |
 | [2308-divide-array-into-equal-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -638,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0140-word-break-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0140-word-break-ii) |
 | [0401-binary-watch](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0401-binary-watch) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Linked List
 |  |
@@ -764,4 +769,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->

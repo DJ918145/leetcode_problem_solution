@@ -5,12 +5,12 @@ class Solution(object):
         :rtype: int
         """
         morseCar = [".-","-...","-.-.","-..",".","..-.","--.","....","..",".---","-.-",".-..","--","-.","---",".--.","--.-",".-.","...","-","..-","...-",".--","-..-","-.--","--.."]
-        def morse(car):
-            return morseCar[ord(car) - 97]
+        # def morse(car):
+        #     return morseCar[ord(car) - 97]
         def convertToMorse(s):
             ans = ""
             for car in s:
-                ans+= morse(car)
+                ans+= morseCar[ord(car) - 97]
             return ans
         if len(words)<=1:
             return len(words)

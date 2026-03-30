@@ -1,14 +1,8 @@
 class Solution {
 public:
-    string largestEven(string s) {
-        for(int i = s.length()-1; i>=0; i--){
-            if(s[i] == '2'){
-                return s;
-            }
-            else{
-                s.pop_back();
-            }
-        }
-        return "";
+    string largestEven(std::string& s) {
+        while (!s.empty() && s.back() == '1')
+            s.pop_back();
+        return std::move(s);
     }
 };

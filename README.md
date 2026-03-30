@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-find-the-original-typed-string-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3618-find-the-original-typed-string-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3794-reverse-string-prefix](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3794-reverse-string-prefix) |
+| [3798-largest-even-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3798-largest-even-number) |
 ## Sliding Window
 |  |
 | ------- |

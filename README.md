@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0792-binary-search) |
 | [0804-unique-morse-code-words](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0804-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0837-most-common-word) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0441-arranging-coins) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |

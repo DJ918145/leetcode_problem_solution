@@ -9,9 +9,9 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: int
         """
-        binary = ""
+        ans = 0
         while head!= None:
-            binary += str(head.val)
+            ans = ans*2 + head.val
             head = head.next
-        print(binary)
-        return int(binary, 2)
+        # print(binary)
+        return ans

@@ -4,11 +4,11 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[bool]
         """
-        binary = ""
+        val = 0
         ans = []
         for i in nums:
-            binary += str(i)
-            if(int(binary, 2)%5==0):
+            val = (val*2+i)%5
+            if val==0:
                 ans.append(True)
             else:
                 ans.append(False)

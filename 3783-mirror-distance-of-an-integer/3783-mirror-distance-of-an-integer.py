@@ -4,5 +4,8 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        return abs(n - int(str(n)[::-1]))
+        return abs(n - _reverse(n))
         
+def _reverse(n):
+    digits = [digit for digit in str(n)]
+    return int("".join(digits[::-1]))

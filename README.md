@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3783-mirror-distance-of-an-integer) |
 ## Number Theory
 |  |
 | ------- |

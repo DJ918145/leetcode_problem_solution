@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0380-insert-delete-getrandom-o1) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0140-word-break-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0140-word-break-ii) |
 | [0213-house-robber-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0392-is-subsequence) |
 | [0806-domino-and-tromino-tiling](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0806-domino-and-tromino-tiling) |
@@ -752,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0279-perfect-squares](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0279-perfect-squares) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |

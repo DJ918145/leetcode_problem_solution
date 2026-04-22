@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0724-find-pivot-index) |
+| [0729-my-calendar-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0729-my-calendar-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0792-binary-search) |
 | [0804-unique-morse-code-words](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0804-unique-morse-code-words) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0441-arranging-coins) |
+| [0729-my-calendar-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0729-my-calendar-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0380-insert-delete-getrandom-o1) |
+| [0729-my-calendar-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0729-my-calendar-i) |
 | [2241-design-an-atm-machine](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2241-design-an-atm-machine) |
 ## Randomized
 |  |
@@ -811,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0729-my-calendar-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3721-longest-balanced-subarray-ii) |
 ## Monotonic Stack
 |  |
@@ -828,4 +832,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->

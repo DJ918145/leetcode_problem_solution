@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1894-merge-strings-alternately) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2308-divide-array-into-equal-pairs) |

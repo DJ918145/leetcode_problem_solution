@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0496-next-greater-element-i) |
+| [0706-design-hashmap](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0706-design-hashmap) |
 | [0804-unique-morse-code-words](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0804-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0837-most-common-word) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0643-maximum-average-subarray-i) |
+| [0706-design-hashmap](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0729-my-calendar-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0380-insert-delete-getrandom-o1) |
+| [0706-design-hashmap](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0706-design-hashmap) |
 | [0729-my-calendar-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0729-my-calendar-i) |
 | [2241-design-an-atm-machine](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2241-design-an-atm-machine) |
 ## Randomized
@@ -715,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0234-palindrome-linked-list) |
+| [0706-design-hashmap](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -858,4 +862,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1255-maximum-score-words-formed-by-letters) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->

@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0837-most-common-word) |
 | [1078-occurrences-after-bigram](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1078-occurrences-after-bigram) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0837-most-common-word) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1319-unique-number-of-occurrences](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1500-count-largest-group](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1500-count-largest-group) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1031-add-to-array-form-of-integer) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1266-minimum-time-visiting-all-points](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1319-unique-number-of-occurrences](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0837-most-common-word) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1635-number-of-good-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -557,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -603,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0392-is-subsequence) |
 | [0806-domino-and-tromino-tiling](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0806-domino-and-tromino-tiling) |
 | [1013-fibonacci-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1013-fibonacci-number) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2554-minimum-total-distance-traveled](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2586-longest-square-streak-in-an-array) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -695,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0140-word-break-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0140-word-break-ii) |
 | [0401-binary-watch](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0401-binary-watch) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Linked List
@@ -842,4 +849,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0729-my-calendar-i) |
+## Bitmask
+|  |
+| ------- |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1255-maximum-score-words-formed-by-letters) |
 <!---LeetCode Topics End-->

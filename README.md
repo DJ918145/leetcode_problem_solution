@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3194-find-words-containing-character) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2554-minimum-total-distance-traveled](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2586-longest-square-streak-in-an-array) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3618-find-the-original-typed-string-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3618-find-the-original-typed-string-ii) |
 ## Prefix Sum

@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-occurrences-after-bigram](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1078-occurrences-after-bigram) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1332-remove-palindromic-subsequences](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1332-remove-palindromic-subsequences) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/DJ918145/leetcode_problem_solution/tree/master/0876-middle-of-the-linked-list) |
+| [1332-remove-palindromic-subsequences](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1332-remove-palindromic-subsequences) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1894-merge-strings-alternately](https://github.com/DJ918145/leetcode_problem_solution/tree/master/1894-merge-strings-alternately) |

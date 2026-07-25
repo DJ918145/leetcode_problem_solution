@@ -1,11 +1,12 @@
 class Solution(object):
     def maxProduct(self, n):
+        m = sorted(str(n))
+        return int(m[-1])*int(m[-2])
+
+
+
         """
         :type n: int
         :rtype: int
         """
-        number = []
-        for c in str(n):
-            number.append(int(c))
-        number.sort()
-        return number[-1]*number[-2]
+        

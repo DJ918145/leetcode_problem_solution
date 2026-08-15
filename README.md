@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3721-longest-balanced-subarray-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Matrix
 |  |
 | ------- |

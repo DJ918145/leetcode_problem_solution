@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3280-convert-date-to-binary](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3280-convert-date-to-binary) |
+| [3498-reverse-degree-of-a-string](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3618-find-the-original-typed-string-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/DJ918145/leetcode_problem_solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3379-transformed-array](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3379-transformed-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3838-weighted-word-mapping](https://github.com/DJ918145/leetcode_problem_solution/tree/master/3838-weighted-word-mapping) |
 ## Heap (Priority Queue)

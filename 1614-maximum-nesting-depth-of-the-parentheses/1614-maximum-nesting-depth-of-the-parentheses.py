@@ -12,6 +12,5 @@ class Solution(object):
             elif char == ')':
                 maximum_depth = max(current_depth, maximum_depth)
                 current_depth -= 1
-        print(maximum_depth)
         return maximum_depth
         
